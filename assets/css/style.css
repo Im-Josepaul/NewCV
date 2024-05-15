@@ -132,6 +132,7 @@ h6 {
   #header h1 {
     padding-left: 20%;
     font-size: 36px;
+    margin-top: 20px;
   }
 
   #header h2 {
@@ -148,6 +149,10 @@ h6 {
     display: flex;
     flex-direction: column;
     align-items: center;
+  }
+
+  #header .navbar li{
+    margin-left: 10px;
   }
 }
 
